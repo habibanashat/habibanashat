@@ -1,11 +1,11 @@
-<h2 align="left">Hi 👋! My name is .Habiba Nashat</h2>
+<h1 align="left">Hi 👋! My name is .Habiba Nashat 😊</h1>
 
 ###
 
 <br clear="both">
 
-<div align="right">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlnY25wbHFvMmwzM2ZjZTB6dGtnaXo3ZWtlYXdydXlwdW45YmhuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+<div align="center">
+  <img height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlnY25wbHFvMmwzM2ZjZTB6dGtnaXo3ZWtlYXdydXlwdW45YmhuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 </div>
 
 ###
